@@ -29,4 +29,11 @@ h2 { color: #76502D; }
 <h2>Luxury Shopping</h2>
 <p>Bags | Watches | Sunglasses</p>
 </body>
-</html>
+</html><p>Price: Rs. 2500</p>
+<button>Buy Now</button>
+
+<p>Price: Rs. 1500</p>
+<button>Buy Now</button>
+
+<p>Price: Rs. 1000</p>
+<button>Buy Now</button>
