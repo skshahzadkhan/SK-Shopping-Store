@@ -17,7 +17,7 @@ h2 { color: #76502D; }
 <h2>Our Products</h2>
 
 <h3>Designer Bags</h3>
-<img https://placehold.co/200x150.png src="https://placehold.co/200x150?text=Bags">
+<img  src="https://placehold.co/200x150?text=Bags">
 
 <h3>Luxury Watches</h3>
 <img src="https://placehold.co/200x150?text=Watches">
