@@ -3,8 +3,7 @@ HTML
 <html>
 <head>
 <title>SK Shopping Store</title>
-<style>
-body {
+<style>https://wa.me/923486086765 body {
 background: #F5F0E8;
 color: #382719;
 text-align: center;
