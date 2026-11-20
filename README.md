@@ -9,16 +9,7 @@ HTML&lt;!DOCTYPE html>&lt;html>&lt;head>&lt;title>SK Shopping Store&lt;/title>&l
 
 <h3>Fashion Sunglasses</h3>
 <img src="https://placehold.co/200x150?text=Sunglasses">/body<h2>Our Products</h2>
-<h2>Our Products</h2>
-
-<h3>Designer Bags</h3>
-<img src="https://placehold.co/200x150?text=Bags">
-
-<h3>Luxury Watches</h3>
-<img src="https://placehold.co/200x150?text=Watches">
-
-<h3>Fashion Sunglasses</h3>
-<img src="https://placehold.co/200x150?text=Sunglasses">
+<h2>Our Products</h2> src="https://placehold.co/200x150?text=Sunglasses">
 <h3>Designer Bags</h3>
 <p>Price: Rs. 2500</p>
 
