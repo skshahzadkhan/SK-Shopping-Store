@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>SK Shopping Store</title>
+<style>
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f4f4f4;
+}
+h1 {
+  background: black;
+  color: white;
+  padding: 25px;
+}
+p {
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+<h1>SK Shopping Store</h1>
+<h2>Welcome to Our Shop</h2>
+<p>Best Products, Best Prices</p>
+<h2>Designer Watches</h2>
+<h2>Luxury Sunglasses</h2>
+</body>
+</html>
